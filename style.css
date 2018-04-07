@@ -1,0 +1,30 @@
+.red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  float: left;
+  margin-right: 10px;
+}
+
+.blue{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  float: left;
+  margin-left: 10px;
+  white-space: nowrap;
+  overflow:hidden;
+  text-overflow: ellipsis;
+}
+
+/* div{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+} */
+
+.container{
+  height: auto;
+  width: auto;
+  text-align: center;
+}
